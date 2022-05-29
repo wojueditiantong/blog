@@ -108,7 +108,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   #   (relative to /static/css and /static/js respectively)
   customCSS = []
   customJS = []
-
   uglyURLs = false          # please keep same with uglyurls setting
 
   # Show language selector for multilingual site.

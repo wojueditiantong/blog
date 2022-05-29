@@ -14,4 +14,9 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 
 [context.production]
 [context.production.environment]
+[[menu.main]]
+  name = "搜索"
+  weight = 50
+  identifier = "search"
+  url = "/search/"
 HUGO_ENV = 'production'

@@ -54,6 +54,11 @@ $
 
 ## Some Definitions
 
+>A test word
+
+```
+fsf
+```
 There are a few concepts that you need to understand before creating a theme.
 
 ### Skins
