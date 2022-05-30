@@ -21,6 +21,9 @@ summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
 ```
+```{bash}
+
+```
 
 # Including Plots
 

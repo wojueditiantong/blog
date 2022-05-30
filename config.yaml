@@ -83,11 +83,11 @@ params:
   linkToMarkDown: no
   livereUID: ''
   logoTitle: Even
-  mathjax: no
-  mathjaxEnableAutoNumber: no
-  mathjaxEnableSingleDollar: no
-  mathjaxUseLocalFiles: no
-  moreMeta: no
+  mathjax: yes
+  mathjaxEnableAutoNumber: yes
+  mathjaxEnableSingleDollar: yes
+  mathjaxUseLocalFiles: yes
+  moreMeta: yes
   outdatedInfoWarning:
     enable: no
     hint: 30
@@ -148,7 +148,7 @@ params:
     l-tumblr: http://localhost:1313
     m-instagram: http://localhost:1313
     n-gitlab: http://localhost:1313
-    o-bilibili: http://localhost:1313
+    o-bilibili: https://space.bilibili.com/438819558/
   toc: yes
   uglyURLs: no
   utterances:
